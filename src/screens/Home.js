@@ -5,9 +5,9 @@ import Footer from '../components/Footer'
 export default function Home() {
   return (
     <div>
-        <div><Navbar/></div>
+        <div> <Navbar/> </div>
         <div>Body</div>
-        <div><Footer></Footer></div>
+        <div> <Footer></Footer> </div>
 
     </div>
   )
