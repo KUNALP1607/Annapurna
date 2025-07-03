@@ -14,7 +14,7 @@ export default function Carousel() {
               src="https://images.unsplash.com/photo-1668236543090-82eba5ee5976?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Burger"
               className="d-block w-100"
-              style={{ height: '400px', objectFit: 'cover' }}
+              style={{ height: '600px', objectFit: 'cover' }}
             />
           </div>
           <div className="carousel-item">
@@ -22,7 +22,7 @@ export default function Carousel() {
               src="https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Pizza"
               className="d-block w-100"
-              style={{ height: '400px', objectFit: 'cover' }}
+              style={{ height: '600px', objectFit: 'cover' }}
             />
           </div>
           <div className="carousel-item">
@@ -30,7 +30,7 @@ export default function Carousel() {
               src="https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=1021&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3DD"
               alt="Pastry"
               className="d-block w-100"
-              style={{ height: '400px', objectFit: 'cover' }}
+              style={{ height: '600px', objectFit: 'cover' }}
             />
           </div>
         </div>
